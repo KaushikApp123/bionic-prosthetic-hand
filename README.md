@@ -49,8 +49,4 @@ All STLs are in /3d-files. Print in PLA at 0.2mm layer height and 20% infill. Th
 | Finger_*.stl | Individual finger assemblies |
 | Arm.stl / Arm_Cover.stl | Forearm housing for servos |
 
-## TODO
 
-- Add force feedback using FSRs on fingertips
-- Replace fishing line with Dyneema for better durability
-- Wireless glove version
